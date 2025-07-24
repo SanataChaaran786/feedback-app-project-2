@@ -38,7 +38,7 @@ You can find all supporting screenshots inside the `screenshots/` folder:
 
 ## 🙋‍♀️ Author
 
-**Sanata Charan**  
+**Rayyan Chaaran**  
 Intern – Security-Focused Web Application Project  
 GitHub: [@SanataChaaran786](https://github.com/SanataChaaran786)
 
